@@ -1,0 +1,23 @@
+{
+  "name": "nodeclg",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "start": "nodemon q1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "usr1": "nodemon q2",
+    "usr2": "nodemon demo1",
+    "usr3": "nodemon demo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.2",
+    "node-static": "^0.7.11",
+    "ws": "^8.13.0"
+  },
+  "keywords": [],
+  "description": ""
+}
